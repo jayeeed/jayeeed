@@ -18,6 +18,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47ryww8vdzhwkdu93zs7z1fgqm7v7z6dguofw7ebtr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 &nbsp;<div align="center">
   [![Spotify](https://xy3d-chi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/jayed990)
 </div>
@@ -56,7 +62,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Data Science, MERN<br>🎯 Goals: ML/AI Engineer<br>🎲 Fun fact: AI art using Stable Diffusion</p>
+<p align="left">✨Creating bugs since 2021<br>📚 I'm currently learning Data Science, MERN<br>🎯 Goals: ML/AI Engineer<br>🎲 Fun fact: AI art using Stable Diffusion</p>
 
 ###
 
