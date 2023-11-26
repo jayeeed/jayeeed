@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/jayeeed/jayeeed/output/snake.svg" alt="Snake animation" />
 
 ###
