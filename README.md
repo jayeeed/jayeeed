@@ -18,7 +18,7 @@
 
 &nbsp;<div align="center">
   [![Spotify](https://xy3d-chi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/jayed990)
-  <img align="right" height="130" src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47ryww8vdzhwkdu93zs7z1fgqm7v7z6dguofw7ebtr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img align="right" height="130" src="https://media3.giphy.com/media/VbAFrrDVGAvZu/giphy.gif?cid=ecf05e47bw5ks2e5cm1pzsuhdjrgoi3u4kxqh9574x0uon93&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -35,7 +35,7 @@
   <a href="https://join.slack.com/t/jayedgroup/shared_invite/zt-27wddakb5-Jy1OiVXaClSBh1iazRrzIQ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40" alt="slack logo"  />
   </a>
-  <a href="jayedbinjahangir@gmail.com" target="_blank">
+  <a href="mailto:jayedbinjahangir@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/jayedbinjahangir" target="_blank">
