@@ -16,12 +16,11 @@
 
 ###
 
-&nbsp;<div align="center">
+&nbsp;<div align="center" style="padding-top: 20px;">
   [![Spotify](https://xy3d-chi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/jayed990)
-  <img align="right" height="300" src="https://media1.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=ecf05e4731846q4em2psrnydirtzw9njnh2kp2abnq7f48me&ep=v1_stickers_search&rid=giphy.gif&ct=s"
-    />
-    
+  <img align="right" height="200" src="https://media1.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=ecf05e4731846q4em2psrnydirtzw9njnh2kp2abnq7f48me&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </div>
+
 
 ###
 
