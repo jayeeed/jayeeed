@@ -57,15 +57,11 @@
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">✨Creating bugs since 2021<br>📚 I'm currently learning Data Science, MERN<br>🎯 Goals: ML/AI Engineer<br>🎲 Fun fact: AI art using Stable Diffusion</p>
 
 ###
 
 <h2 align="left">Tools & Technologies</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="python logo"  />
