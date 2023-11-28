@@ -18,7 +18,9 @@
 
 &nbsp;<div align="center">
   [![Spotify](https://xy3d-chi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/jayed990)
-  <img align="right" height="130" src="https://media3.giphy.com/media/VbAFrrDVGAvZu/giphy.gif?cid=ecf05e47bw5ks2e5cm1pzsuhdjrgoi3u4kxqh9574x0uon93&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img align="right" height="400" src="https://media1.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=ecf05e4731846q4em2psrnydirtzw9njnh2kp2abnq7f48me&ep=v1_stickers_search&rid=giphy.gif&ct=s"
+    />
+    
 </div>
 
 ###
