@@ -18,9 +18,9 @@
 
 &nbsp;<div align="center">
   <a href="https://open.spotify.com/user/jayed990" target="_blank">
-    <img src="https://xy3d-chi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" height="180" alt="Spotify Banner"/>
+    <img src="https://xy3d-chi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" height="160" alt="Spotify Banner"/>
   </a>
-  <img align="right" height="220" src="https://media1.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=ecf05e4731846q4em2psrnydirtzw9njnh2kp2abnq7f48me&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+  <img align="right" height="190" src="https://media1.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=ecf05e4731846q4em2psrnydirtzw9njnh2kp2abnq7f48me&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </div>
 
 
