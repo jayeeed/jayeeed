@@ -57,7 +57,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨Creating bugs since 2021<br>📚 I'm currently learning Data Science, MERN<br>🎯 Goals: ML/AI Engineer<br>🎲 Fun fact: AI art using Stable Diffusion</p>
+<p align="left">✨Software Engineer<br>📚 I'm currently learning Data Science, MERN<br>🎯 Goals: Build my own company on AI/ML Research<br>🎲 Hobbies: AI art, Video editing, CSGO</p>
 
 ###
 
