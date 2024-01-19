@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Jayed Bin Jahangir, a Software Engineer from Dhaka, Bangladesh.</p>
+<p align="left">I'm Jayed Bin Jahangir, Software Engineer from Dhaka, Bangladesh.</p>
 
 ###
 
