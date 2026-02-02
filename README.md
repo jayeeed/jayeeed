@@ -59,7 +59,7 @@
 
 <h2 align="center">About me</h2>
 
-<p align="left">✨Software Engineer<br>📚 I'm currently learning Data Science, MERN<br>🎯 Goals: Build my own company on AI/ML Research<br>🎲 Hobbies: AI art, Video editing, CSGO</p>
+<p align="left">✨Software Engineer<br>📚 AI/ML, Microservice, System Design</p>
 
 ###
 
