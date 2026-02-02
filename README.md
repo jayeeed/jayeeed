@@ -59,7 +59,7 @@
 
 <h2 align="center">About me</h2>
 
-<p align="left">✨Software Engineer<br>📚 AI/ML, Microservice, System Design</p>
+<p align="left">✨**Software Engineer**<br>📚 AI/ML, Microservice, System Design</p>
 
 ###
 
