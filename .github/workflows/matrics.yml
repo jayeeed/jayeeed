@@ -1,0 +1,83 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: Contribution heatmap + base stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.base.svg
+          base: header, activity, community, repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Dhaka
+          config_display: large
+          config_padding: 6px
+
+      - name: Languages breakdown
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.langs.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, dockerfile, makefile, cmake
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          config_timezone: Asia/Dhaka
+
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.activity.svg
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 6
+          plugin_activity_days: 14
+          plugin_activity_filter: >-
+            push, pr, issue, release, review
+          config_timezone: Asia/Dhaka
+
+      - name: WakaTime coding time
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.wakatime.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: >-
+            time, projects, projects-graphs, languages, languages-graphs
+          plugin_wakatime_url: https://wakatime.com
+          config_timezone: Asia/Dhaka
+
+      - name: Top repositories
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.repos.svg
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: >-
+            jayeeed/LexDraft-AI, jayeeed/cogniflow-ai
+          plugin_repositories_order: stargazers
+          config_timezone: Asia/Dhaka
