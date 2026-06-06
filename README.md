@@ -1,99 +1,97 @@
-<img src="https://raw.githubusercontent.com/jayeeed/jayeeed/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5A0&height=120&section=header&text=&fontSize=0" width="100%"/>
+</div>
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&multiline=true&width=500&height=60&lines=%2F%2F+hello+world;Software+Engineer+%C2%B7+Dhaka%2C+Bangladesh" alt="Typing SVG" />
+</div>
 
-<br clear="both">
+<h1 align="center">Jayed Bin Jahangir</h1>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jayeeed.jayeeed&" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/xayed/"><img src="https://img.shields.io/badge/LinkedIn-0a0c0f?style=flat-square&logo=linkedin&logoColor=00E5A0" /></a>
+  <a href="https://discord.gg/dYj8tQq3yw"><img src="https://img.shields.io/badge/Discord-0a0c0f?style=flat-square&logo=discord&logoColor=00E5A0" /></a>
+  <a href="mailto:jayedbinjahangir@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0c0f?style=flat-square&logo=gmail&logoColor=00E5A0" /></a>
+  <a href="https://www.hackerrank.com/profile/jayedbinjahangir"><img src="https://img.shields.io/badge/HackerRank-0a0c0f?style=flat-square&logo=hackerrank&logoColor=00E5A0" /></a>
+  <a href="https://www.facebook.com/jayed.shibli/"><img src="https://img.shields.io/badge/Facebook-0a0c0f?style=flat-square&logo=facebook&logoColor=00E5A0" /></a>
+  <a href="https://www.instagram.com/xaayed/"><img src="https://img.shields.io/badge/Instagram-0a0c0f?style=flat-square&logo=instagram&logoColor=00E5A0" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jayeeed.jayeeed&color=0a0c0f&labelColor=0a0c0f&style=flat-square" />
+</p>
 
-###
+---
 
-<h1 align="center">Hey👋 What's up?</h1>
+```
+▸ Role        Software Engineer
+▸ Focus       AI/ML · Microservices · System Design
+▸ Location    Dhaka, Bangladesh
+▸ Status      Building things that actually work
+```
 
-###
+---
 
-<p align="center">I'm Jayed Bin Jahangir, a Software Engineer from Dhaka, Bangladesh.</p>
+### `// now playing`
 
-###
-
-&nbsp;<div align="center">
+<div align="center">
   <a href="https://open.spotify.com/user/jayed990" target="_blank">
-    <img src="https://xy3d-chi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" height="160" alt="Spotify Banner"/>
+    <img src="https://YOUR-APP.vercel.app/api?background_color=0a0c0f&border_color=1e2128&color=00e5a0&line=007aff&point=00e5a0&bar_color=00e5a0&hide_cover=false" height="160" alt="Spotify Now Playing" />
   </a>
-  <img align="right" height="190" src="https://media1.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=ecf05e4731846q4em2psrnydirtzw9njnh2kp2abnq7f48me&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </div>
 
+---
 
-
-###
-
-<br clear="both">
+### `// stack`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/xayed/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"/>
-  </a>
-  <a href="https://discord.gg/dYj8tQq3yw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://join.slack.com/t/jayedgroup/shared_invite/zt-27wddakb5-Jy1OiVXaClSBh1iazRrzIQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40" alt="slack logo"  />
-  </a>
-  <a href="mailto:jayedbinjahangir@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/jayedbinjahangir" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.facebook.com/jayed.shibli/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/xaayed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo" />
-  </a>
+
+![Python](https://img.shields.io/badge/Python-0a0c0f?style=flat-square&logo=python&logoColor=00E5A0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0c0f?style=flat-square&logo=typescript&logoColor=00E5A0)
+![Next.js](https://img.shields.io/badge/Next.js-0a0c0f?style=flat-square&logo=nextdotjs&logoColor=00E5A0)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0c0f?style=flat-square&logo=fastapi&logoColor=00E5A0)
+![Docker](https://img.shields.io/badge/Docker-0a0c0f?style=flat-square&logo=docker&logoColor=00E5A0)
+![Linux](https://img.shields.io/badge/Linux-0a0c0f?style=flat-square&logo=linux&logoColor=00E5A0)
+![Git](https://img.shields.io/badge/Git-0a0c0f?style=flat-square&logo=git&logoColor=00E5A0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0c0f?style=flat-square&logo=postgresql&logoColor=00E5A0)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0a0c0f?style=flat-square&logo=amazons3&logoColor=00E5A0)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0a0c0f?style=flat-square&logo=cloudflare&logoColor=00E5A0)
+![vLLM](https://img.shields.io/badge/vLLM-0a0c0f?style=flat-square&logo=pytorch&logoColor=00E5A0)
+![n8n](https://img.shields.io/badge/n8n-0a0c0f?style=flat-square&logo=n8n&logoColor=00E5A0)
+![GitLab](https://img.shields.io/badge/GitLab-0a0c0f?style=flat-square&logo=gitlab&logoColor=00E5A0)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0a0c0f?style=flat-square&logo=bitbucket&logoColor=00E5A0)
+
 </div>
 
-###
+---
 
-<br clear="both">
-
-<h2 align="center">About me</h2>
-
-<p align="left">✨Software Engineer<br>📚 AI/ML, Microservice, System Design</p>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Tools & Technologies</h2>
+### `// metrics`
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
+  <img src="./metrics.base.svg" alt="Contribution heatmap and base stats" />
 </div>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayeeed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeeed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jayeeed&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="./metrics.langs.svg" width="49%" alt="Most used languages" />
+  <img src="./metrics.wakatime.svg" width="49%" alt="WakaTime coding time" />
 </div>
 
-###
+<div align="center">
+  <img src="./metrics.activity.svg" width="49%" alt="Recent activity" />
+  <img src="./metrics.repos.svg" width="49%" alt="Top repositories" />
+</div>
+
+---
+
+### `// streak`
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jayeeed&mode=weekly&theme=github-dark-blue&hide_border=true&background=0a0c0f&stroke=00E5A0&ring=00E5A0&fire=007aff&currStreakLabel=00E5A0&border_radius=5" height="150" alt="GitHub streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jayeeed/jayeeed/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5A0&height=80&section=footer" width="100%"/>
+</div>
