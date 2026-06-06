@@ -69,11 +69,6 @@
 </div>
 
 <div align="center">
-  <img src="./metrics.langs.svg" width="49%" alt="Most used languages" />
-  <img src="./metrics.wakatime.svg" width="49%" alt="WakaTime coding time" />
-</div>
-
-<div align="center">
   <img src="./metrics.activity.svg" width="49%" alt="Recent activity" />
   <img src="./metrics.repos.svg" width="49%" alt="Top repositories" />
 </div>
