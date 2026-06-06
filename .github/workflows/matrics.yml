@@ -49,10 +49,9 @@ jobs:
           filename: metrics.activity.svg
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 14
-          plugin_activity_filter: >-
-            push, pr, issue, release, review
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           config_timezone: Asia/Dhaka
 
       - name: Top repositories
@@ -62,7 +61,5 @@ jobs:
           filename: metrics.repos.svg
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: >-
-            jayeeed/LexDraft-AI, jayeeed/cogniflow-ai
-          plugin_repositories_order: stargazers
+          plugin_repositories_pinned: 4
           config_timezone: Asia/Dhaka
