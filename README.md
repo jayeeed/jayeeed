@@ -13,8 +13,6 @@
   <a href="https://discord.gg/dYj8tQq3yw"><img src="https://img.shields.io/badge/Discord-0a0c0f?style=flat-square&logo=discord&logoColor=00E5A0" /></a>
   <a href="mailto:jayedbinjahangir@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0c0f?style=flat-square&logo=gmail&logoColor=00E5A0" /></a>
   <a href="https://www.hackerrank.com/profile/jayedbinjahangir"><img src="https://img.shields.io/badge/HackerRank-0a0c0f?style=flat-square&logo=hackerrank&logoColor=00E5A0" /></a>
-  <a href="https://www.facebook.com/jayed.shibli/"><img src="https://img.shields.io/badge/Facebook-0a0c0f?style=flat-square&logo=facebook&logoColor=00E5A0" /></a>
-  <a href="https://www.instagram.com/xaayed/"><img src="https://img.shields.io/badge/Instagram-0a0c0f?style=flat-square&logo=instagram&logoColor=00E5A0" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jayeeed.jayeeed&color=0a0c0f&labelColor=0a0c0f&style=flat-square" />
 </p>
 
@@ -33,7 +31,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/jayed990" target="_blank">
-    <img src="https://YOUR-APP.vercel.app/api?background_color=0a0c0f&border_color=1e2128&color=00e5a0&line=007aff&point=00e5a0&bar_color=00e5a0&hide_cover=false" height="160" alt="Spotify Now Playing" />
+    <img src="https://xy3d-chi.vercel.app/api?background_color=0a0c0f&border_color=1e2128&color=00e5a0&line=007aff&point=00e5a0&bar_color=00e5a0&hide_cover=false" height="160" alt="Spotify Now Playing" />
   </a>
 </div>
 
